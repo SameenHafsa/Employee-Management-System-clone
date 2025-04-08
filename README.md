@@ -1,4 +1,4 @@
-# Empl oyee-Management-System-clone  
+# Employee-Management-System-clone  
 A fun an d interactive game built using HTML, CSS, and JavaScript. This project demonstrates simple game logic in a user-friendly interface.
 
 🚀 Live Demo
